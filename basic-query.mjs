@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 
 const API_BASE_URL = "https://nebula-api.thirdweb.com";
 const SECRET_KEY =
-  "-McPqGJ0gSrc0VnET2ewm2lEdPuUEAaaUR21_YkmucPFBNpE1Z2WNsnjHBi5tifYFQ0GqHbNlGvDCX1uXD_DCQ";
+  "";
 
 // Basic API request to handle any of the endpoints of Nebula.
 
